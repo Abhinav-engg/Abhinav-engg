@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pal</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript & Web Development Fundamentals**
+- 🌱 I’m currently learning **Koltin & Android Development Fundamentals**
 
 - 📫 How to reach me **abhinav.pal6.7.9@gmail.com**
 
